@@ -3,3 +3,6 @@
 ################################################################################
 
 /00_simple_factory/bin/Debug/netcoreapp3.1
+/00_simple_factory/obj
+/01_facade/obj
+/.vs/netcore-design-pattern/v16
